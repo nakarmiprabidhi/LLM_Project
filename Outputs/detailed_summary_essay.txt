@@ -1,0 +1,13 @@
+Essay Sentiment: Positive
+Essay Rating: 5
+
+Themes: Education, Health
+
+Simple Summary:
+The writer was a straight A student until she got to high school. She was diagnosed with a learning disability. The doctor told her it was because she and her family are Asian. The school switched her out of all of her IB courses to “accommodate my special needs.” The doctor said to her, “She is going to be a great lawyer.’“I was shocked at this revelation. The last three doctors had mumbled something about grades but had never said a thing about race,” she said.
+
+Chain-of-Thought Summary:
+The writer was a straight A student until she got to high school. The doctor told her she had a learning problem, but that she was just procrastinating. She worked with the librarian after school to sift through research on ADHD and other learning disabilities. The librarian introduced her to an academic tutor who specialized in learning disabilities and taught her skills like using redundancy and time management to make it easier for her to grapple with moving parts. She was diagnosed with learning disability and switched out of all of her IB courses to “accommodate my special needs”
+
+Tree of Thoughts Summary:
+The writer was a straight A student until she got to high school. She says doctors refused to refer her to a specialist because her grades were too high. The librarian introduced her to an academic tutor who specialized in learning disabilities. The tutor taught her skills like using redundancy and time management to make it easier for her to grapple with moving parts, the writer says. "I was shocked at this revelation. The last three doctors had mumbled something about grades but had never said a thing about race," she says.
